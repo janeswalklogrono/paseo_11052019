@@ -3,6 +3,6 @@
 "name": "parada4",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Parada 4": "Calle García Morato" }, "geometry": { "type": "Point", "coordinates": [ -2.44743878, 42.4621707 ] } }
+{ "type": "Feature", "properties": { "Parada 4": "Calle García Morato", "Notas": "Una pequeña calle llena de pequeño comercio. Peatonal entre dos calles repletas de tráfico motorizado. Reflexionamos sobre posible relación simbiótica entre el espacio público y la iniciativa privada." }, "geometry": { "type": "Point", "coordinates": [ -2.44743878, 42.4621707 ] } }
 ]
 }

@@ -3,6 +3,6 @@
 "name": "parada5",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Parada 5": "Avenida Juan XXIII" }, "geometry": { "type": "Point", "coordinates": [ -2.4421754, 42.4640373 ] } }
+{ "type": "Feature", "properties": { "Parada 5": "Paseo de las 100 Tiendas", "Notas": "La Zona Peatonal Cien Tiendas representa uno de los espacios mejor tratados desde el punto de vista inclusivo y en los que más agradable es caminar y conversar. Sin embargo también tiene sus puntos débiles como el gran solar vacío del antiguo colegio San José. Hablamos con vecin@s y comercios de la situación actual de la zona." }, "geometry": { "type": "Point", "coordinates": [ -2.4421754, 42.4640373 ] } }
 ]
 }

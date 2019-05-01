@@ -3,6 +3,6 @@
 "name": "parada1",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Parada 1": "Plaza del Mercado" }, "geometry": { "type": "Point", "coordinates": [ -2.4460374, 42.4667716 ] } }
+{ "type": "Feature", "properties": { "Parada 1": "Plaza del Mercado", "Notas": "Partimos desde la Plaza del Mercado, corazón del Centro Histórico de Logroño, con un urbanismo compacto y vivo. En este lugar de encuentro nos presentamos e introducimos la figura de Jane Jacobs." }, "geometry": { "type": "Point", "coordinates": [ -2.4460374, 42.4667716 ] } }
 ]
 }

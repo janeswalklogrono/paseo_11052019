@@ -3,6 +3,6 @@
 "name": "parada7",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Parada 7": "Calle Rodríguez Paterna" }, "geometry": { "type": "Point", "coordinates": [ -2.4430661, 42.4674010 ] } }
+{ "type": "Feature", "properties": { "Parada 7": "Calle Rodríguez Paterna", "Notas": "La Villanueva es una de las zonas más descuidadas por nuestra ciudad, con solares vacíos utilizados como aparcamientos para vehículos privados, calles con pavimentación  e iluminación deficiente, bajos comerciales sin uso…¿podemos darle algunos cuidados?" }, "geometry": { "type": "Point", "coordinates": [ -2.4430661, 42.4674010 ] } }
 ]
 }
